@@ -1,5 +1,5 @@
 # Just.eat
-Original Wireframe
+Original Wireframe (had to redesign to accomodate for Python)
 ![Screen Shot 2022-08-26 at 1 52 52 AM](https://user-images.githubusercontent.com/101828681/186866551-e9e047a2-8820-48d0-ab3a-bc8e250778ee.png)
 
 One random cuisine will be selected from a list of cuisines and displayed on the main page

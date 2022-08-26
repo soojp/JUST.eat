@@ -4,5 +4,10 @@ Original Wireframe (had to redesign to accomodate for Python)
 
 Main page
 ![Screen Shot 2022-08-25 at 11 21 28 PM](https://user-images.githubusercontent.com/101828681/186860129-f6d21a55-aad4-45ee-998e-ede2eb161591.png)
-One random cuisine will be selected from a list of cuisines and displayed on the main page
+
+Add Page (One random cuisine will be selected from a list of cuisines and displayed on the main page)
+![Screen Shot 2022-08-26 at 2 12 47 AM](https://user-images.githubusercontent.com/101828681/186870676-0d85cfde-d3b7-4805-ba0b-eee2c79c8337.png)
+
+
+Edit Page (One random cuisine will be selected from a list of cuisines and displayed on the main page)
 ![Screen Shot 2022-08-25 at 11 21 42 PM](https://user-images.githubusercontent.com/101828681/186860153-282b960c-e4f1-4ec8-b748-ffc07f5168c7.png)
